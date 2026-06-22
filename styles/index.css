@@ -95,15 +95,12 @@ button.roll-dice {
 }
 
 .dice {
-  width: 60px;
-  height: 60px;
-  border: 2px solid black;
   border-radius: 10px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);  /* 加上这行 */
-  padding: 6px;                         /* 稍微减小 */
-  gap: 0;                               /* 去掉 gap */
+  grid-template-rows: repeat(3, 1fr); 
+  padding: 6px;                         
+  gap: 0;                               
 }
 
 .dot {
