@@ -1,7 +1,7 @@
 # Tenzies Game
 
 A classic dice-rolling game built with React where the goal is to roll until all dice show the same number. Click individual dice to freeze them between rolls.
-<video controls src="media/tenzi-demo.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/d5ca17b9-ffbf-4eff-8f5a-0bba60a6fd57
 
 ## 🎲 Game Overview
 
