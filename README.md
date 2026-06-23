@@ -1,15 +1,18 @@
 # Tenzies Game
 
 A classic dice-rolling game built with React where the goal is to roll until all dice show the same number. Click individual dice to freeze them between rolls.
+<video controls src="media/tenzi-demo.mp4" title="Title"></video>
 
 ## 🎲 Game Overview
 
 Tenzies is an engaging single-player dice game where you roll 10 dice and try to get them all to display the same number. You can hold (freeze) specific dice while re-rolling the others to strategically achieve your goal.
 
 ### Live Demo
-Play the game here: [Tenzies Live Demo](https://gotham-citizen.github.io/Tenzi)
+<a href="https://Gotham-Citizen.github.io/Tenzi">
+  <img src="./media/tenzi.png" alt="Tenzies Game Screenshot" width="600">
+</a>
 
-[![Play Tenzies](https://img.shields.io/badge/🎲-Play%20Demo-blue?style=for-the-badge&logo=github)](https://Gotham-Citizen.github.io/Tenzi)
+Click the image above or [here](https://Gotham-Citizen.github.io/Tenzi) to play the game!
 
 ## ✨ Features
 
